@@ -25,5 +25,5 @@ https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression
 
 ## Credits
 
-https://www.kaggle.com/alinaspasskaya/lab-2-face-emotion-classification-with-mlp </br>
-https://www.kaggle.com/sharadhaviswanathan/imageclassification-facialexpression
+- https://www.kaggle.com/alinaspasskaya/lab-2-face-emotion-classification-with-mlp
+- https://www.kaggle.com/sharadhaviswanathan/imageclassification-facialexpression
