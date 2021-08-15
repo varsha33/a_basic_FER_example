@@ -1,4 +1,6 @@
-# In this tutorial we will be building two facial expression classifiers from a labelled dataset FER2013. We will be using a Multi-Layer perceptron model (MLP) and CNN-based model to perform the classification. 
+# In this tutorial we will be building two facial expression classifiers from a labelled dataset FER2013. 
+
+We will be using a Multi-Layer perceptron model (MLP) and CNN-based model to perform the classification. 
 
 ## Install necessary python packages 
 
