@@ -39,7 +39,7 @@ This code uses GPU and can be ran on Google Colab. Steps:
 - Open this project with Google Colaboratory
 - At Runtime option, click on Change Runtime type and Change it from None to GPU.
 
-You are good to go! Start implementing the code below.
+You are good to go!
 
 
 ## Credits
